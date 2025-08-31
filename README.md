@@ -16,4 +16,5 @@ This is my portfolio project for the final assignment.
 ## Live Demo
 [Click here to view my portfolio website](https://github.com/Techacademyprojects/HTML-AND-CSS-COURSE.git)
 
-
+-https://cristopherblanco.wixsite.com/portfolio-website--
+https://manage.wix.com/dashboard/6e694d5f-ad5e-407d-851a-c533cf8c6dcd/video-library/videos

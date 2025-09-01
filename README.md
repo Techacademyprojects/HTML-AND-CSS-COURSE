@@ -14,6 +14,5 @@ This is my portfolio project for the final assignment.
 4. Portfolio Website (Final Project)
 
 ## Live Demo
-[Click here to view my portfolio website](https://github.com/Techacademyprojects/HTML-AND-CSS-COURSE.git)
 
 https://manage.wix.com/account/websites?referralAdditionalInfo=Route
